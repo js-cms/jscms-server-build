@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fsAction = require('../lib/fsAction');
 const chalk = require('chalk');
 

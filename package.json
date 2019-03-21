@@ -1,7 +1,8 @@
 {
-  "name": "jscms-server-build-build",
-  "version": "0.0.1",
+  "name": "jscms-server-build",
+  "version": "0.0.2",
   "description": "jscms-server-build",
+  "main": "index.js",
   "bin": {
     "jscms-server-build": "bin/build.js"
   },
